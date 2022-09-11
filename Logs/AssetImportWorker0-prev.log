@@ -1,0 +1,357 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.38f1 (8f5fde82e2dc) revision 9396190'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22000) 64bit Core' Language: 'en' Physical Memory: 7521 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity 2020.3.38f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Samue/Downloads/MixedRealityToolkit-Unity-mrtk3/MixedRealityToolkit-Unity-mrtk3/UnityProjects/MRTKDevTemplate
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+57507
+Successfully changed project path to: C:/Users/Samue/Downloads/MixedRealityToolkit-Unity-mrtk3/MixedRealityToolkit-Unity-mrtk3/UnityProjects/MRTKDevTemplate
+C:/Users/Samue/Downloads/MixedRealityToolkit-Unity-mrtk3/MixedRealityToolkit-Unity-mrtk3/UnityProjects/MRTKDevTemplate
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 121.91 ms, found 13 plugins.
+Preloading 2 native plugins for Editor in 2.49 ms.
+Initialize engine version: 2020.3.38f1 (8f5fde82e2dc)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity 2020.3.38f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Samue/Downloads/MixedRealityToolkit-Unity-mrtk3/MixedRealityToolkit-Unity-mrtk3/UnityProjects/MRTKDevTemplate/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) Graphics (ID=0x164c)
+    Vendor:   
+    VRAM:     3760 MB
+    Driver:   30.0.14056.5001
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity 2020.3.38f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity 2020.3.38f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity 2020.3.38f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56608
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity 2020.3.38f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002352 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 95.82 ms, found 13 plugins.
+Preloading 2 native plugins for Editor in 0.18 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.713 seconds
+Domain Reload Profiling:
+	ReloadAssembly (713ms)
+		BeginReloadAssembly (74ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (559ms)
+			LoadAssemblies (72ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (181ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (37ms)
+			SetupLoadedEditorAssemblies (222ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (96ms)
+				BeforeProcessingInitializeOnLoad (8ms)
+				ProcessInitializeOnLoadAttributes (84ms)
+				ProcessInitializeOnLoadMethodAttributes (29ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.020722 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 92.36 ms, found 13 plugins.
+Preloading 2 native plugins for Editor in 0.18 ms.
+[XR] [MROpenXR][Info   ][21:15:39.329282][tid:1cbc] MeshProvider_RegisterLifecycleProvider
+[XR] [MROpenXR][Info   ][21:15:39.329383][tid:1cbc] InputProvider_RegisterLifecycleProvider
+[XR] Error loading subsystem: Display (1) (header mismatch?)
+[XR] [MROpenXR][Info   ][21:15:39.331364][tid:1cbc] OnPluginStarted UnityVersion=2020.3.38f1 OpenXRPluginVersion=1.5.1 MROpenXRPluginVersion=1.5.0.0 PartA_PrivTags=33554432
+Mono: successfully reloaded assembly
+- Completed reload, in  1.656 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1657ms)
+		BeginReloadAssembly (164ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (29ms)
+		EndReloadAssembly (1419ms)
+			LoadAssemblies (151ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (426ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (91ms)
+			SetupLoadedEditorAssemblies (607ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (93ms)
+				BeforeProcessingInitializeOnLoad (140ms)
+				ProcessInitializeOnLoadAttributes (293ms)
+				ProcessInitializeOnLoadMethodAttributes (70ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (2ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 2.13 ms, found 13 plugins.
+Preloading 2 native plugins for Editor in 0.18 ms.
+Unloading 3986 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 173.2 MB.
+System memory in use after: 173.4 MB.
+
+Unloading 78 unused Assets to reduce memory usage. Loaded Objects now: 4410.
+Total: 5.040400 ms (FindLiveObjects: 0.424000 ms CreateObjectMapping: 0.160300 ms MarkObjects: 4.312300 ms  DeleteObjects: 0.142300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Chess Set/fbx/Pieces/Materials
+  artifactKey: Guid(d3ce72ae91848ec4f913749d4d3dc52d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Chess Set/fbx/Pieces/Materials using Guid(d3ce72ae91848ec4f913749d4d3dc52d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de4f8a51b0fe9e056acb2fb7178be47e') in 0.016493 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1572.222753 seconds.
+  path: Assets/Data Binding Example/Sprites/0001.jpeg
+  artifactKey: Guid(e43b68a20fe2fbc4494f078b9b43e0a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data Binding Example/Sprites/0001.jpeg using Guid(e43b68a20fe2fbc4494f078b9b43e0a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '341371d5df5f249ccf149d4c0a678847') in 0.197251 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Packages/com.microsoft.mrtk.extendedassets/Models/Tree.fbm/6.png
+  artifactKey: Guid(6e0f8b8da5f22fa46bcb5c36c0fb8b19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.mrtk.extendedassets/Models/Tree.fbm/6.png using Guid(6e0f8b8da5f22fa46bcb5c36c0fb8b19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98f9cd44338969d08f2cae09743af3ea') in 0.350208 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Packages/com.microsoft.mrtk.extendedassets/Models/MarsCuriosityRover.fbm/5.png
+  artifactKey: Guid(3386577c07b64fc4b91ca42fc1169276) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.mrtk.extendedassets/Models/MarsCuriosityRover.fbm/5.png using Guid(3386577c07b64fc4b91ca42fc1169276) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '741cad73bd28110176dae5cd27448578') in 0.031706 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Packages/com.microsoft.mrtk.extendedassets/Models/Tree.fbm/5.png
+  artifactKey: Guid(c1d1fc1d0afdabd43a6d628bfc66e26c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.mrtk.extendedassets/Models/Tree.fbm/5.png using Guid(c1d1fc1d0afdabd43a6d628bfc66e26c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67184684334b4571f859005e5853db38') in 0.030177 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Packages/com.microsoft.mrtk.extendedassets/Models/EarthCore.fbm/5.png
+  artifactKey: Guid(11d778e0f745dd44dbed92d9c0a85b96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.mrtk.extendedassets/Models/EarthCore.fbm/5.png using Guid(11d778e0f745dd44dbed92d9c0a85b96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e37579daf56cc09b4c6bd898b160e28') in 0.027470 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Packages/com.microsoft.mrtk.extendedassets/Models/CoffeeCup 1.fbm/7.png
+  artifactKey: Guid(c5ee8ca13c5831545a95761faae8207f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.mrtk.extendedassets/Models/CoffeeCup 1.fbm/7.png using Guid(c5ee8ca13c5831545a95761faae8207f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43e97caccaec9db780c698c1e85faabf') in 0.031030 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Packages/com.microsoft.mrtk.extendedassets/Models/CoffeeCup 1.fbm/5.png
+  artifactKey: Guid(cbb5bc89096deea4bb1188129224afe1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.mrtk.extendedassets/Models/CoffeeCup 1.fbm/5.png using Guid(cbb5bc89096deea4bb1188129224afe1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85d0784d9c12b143abc6d53edef552dc') in 0.033730 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Packages/com.microsoft.mrtk.extendedassets/Models/MarsCuriosityRover.fbm/6.png
+  artifactKey: Guid(ae9344204af18344d93ff8bcc432f3f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.mrtk.extendedassets/Models/MarsCuriosityRover.fbm/6.png using Guid(ae9344204af18344d93ff8bcc432f3f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94c447d8bc6158aaae11c20676f09198') in 0.028279 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.176511 seconds.
+  path: Packages/com.microsoft.mrtk.extendedassets/Models/EarthCore.fbm/7.png
+  artifactKey: Guid(7f54a1a9c3ec9cb428c77e0fe863d58b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.mrtk.extendedassets/Models/EarthCore.fbm/7.png using Guid(7f54a1a9c3ec9cb428c77e0fe863d58b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96ab8f9400d5592e8af61476607b32e6') in 0.031492 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000534 seconds.
+  path: Packages/com.microsoft.mrtk.extendedassets/Models/MarsCuriosityRover.fbm/8.png
+  artifactKey: Guid(4ac4fedf69b50e24c9bf67e7f6cddc8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.mrtk.extendedassets/Models/MarsCuriosityRover.fbm/8.png using Guid(4ac4fedf69b50e24c9bf67e7f6cddc8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ac35b7abf7e6ccd962b358545dd3b91') in 0.031054 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Packages/com.microsoft.mrtk.extendedassets/Models/MarsCuriosityRover.fbm/9.png
+  artifactKey: Guid(c78ef35bd9ed8894fb30e1d6ac8c78af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.mrtk.extendedassets/Models/MarsCuriosityRover.fbm/9.png using Guid(c78ef35bd9ed8894fb30e1d6ac8c78af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '821c124958a5b7ae62d1b21bc65a765b') in 0.030937 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF.asset
+  artifactKey: Guid(8a89fa14b10d46a99122fd4f73fca9a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF.asset using Guid(8a89fa14b10d46a99122fd4f73fca9a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89f74535dbbe80d820aad8820167369b') in 0.122583 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Packages/com.microsoft.mrtk.extendedassets/Models/MarsCuriosityRover.fbm/7.png
+  artifactKey: Guid(554a14b58b69adb489f83175408dc134) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.mrtk.extendedassets/Models/MarsCuriosityRover.fbm/7.png using Guid(554a14b58b69adb489f83175408dc134) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50b1ed48afcc064b4400e91297d71cf8') in 0.026531 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000379 seconds.
+  path: Packages/com.microsoft.mrtk.extendedassets/Models/MarsCuriosityRover.fbm/10.png
+  artifactKey: Guid(2efcfe3b19f827b42b441cf7997a43d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.mrtk.extendedassets/Models/MarsCuriosityRover.fbm/10.png using Guid(2efcfe3b19f827b42b441cf7997a43d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adff4151a990ab7470bc637db9f6e669') in 0.031683 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 190.630852 seconds.
+  path: Assets/Chess Set/fbx/Pieces/Materials/Black top.mat
+  artifactKey: Guid(6ba585060bc32e74599943aadc034596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Chess Set/fbx/Pieces/Materials/Black top.mat using Guid(6ba585060bc32e74599943aadc034596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19d485c6d16214e3d5130bd4209e577c') in 0.028345 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.768752 seconds.
+  path: Assets/Chess Set/fbx/Pieces/Materials/Black bottom.mat
+  artifactKey: Guid(3826d7ea250bad04396eba3b7fee4739) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Chess Set/fbx/Pieces/Materials/Black bottom.mat using Guid(3826d7ea250bad04396eba3b7fee4739) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fc172314c51a586050762fb979036d4') in 0.020952 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1117.958719 seconds.
+  path: Packages/com.microsoft.mrtk.standardassets/Textures/BackplateIridescence.png
+  artifactKey: Guid(1c53ac3264b9f9b478ba62ee57b2f159) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.mrtk.standardassets/Textures/BackplateIridescence.png using Guid(1c53ac3264b9f9b478ba62ee57b2f159) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6b9989f612d48ad86758ffe42089bf0') in 0.048043 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Packages/com.microsoft.mrtk.standardassets/Textures/Gradients/BackplateIridescenceHoloLens2.png
+  artifactKey: Guid(d6db887479c06574faefa1d9c38b959a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.mrtk.standardassets/Textures/Gradients/BackplateIridescenceHoloLens2.png using Guid(d6db887479c06574faefa1d9c38b959a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5b549a3ded414d4ef8f8183c1f95df1') in 0.028420 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF.asset
+  artifactKey: Guid(125cb55b44b24c4393181402bc6200e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF.asset using Guid(125cb55b44b24c4393181402bc6200e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ba1bb398137a00be6e06e68b72b365d') in 0.050029 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/UX Theming Example/Textures/battery_01.png
+  artifactKey: Guid(d411ca7e2df84f24793b134b21cadc3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UX Theming Example/Textures/battery_01.png using Guid(d411ca7e2df84f24793b134b21cadc3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06128b6bc7eb65be051ec6f76f8a95dc') in 0.031844 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/UX Theming Example/Textures/battery_02.png
+  artifactKey: Guid(1c0f628ff3061c345b2074ec4cd12ab6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UX Theming Example/Textures/battery_02.png using Guid(1c0f628ff3061c345b2074ec4cd12ab6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9dce30598a99b4af5aa0ae0cb42cf96') in 0.027615 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/UX Theming Example/Textures/battery_00.png
+  artifactKey: Guid(bca152ef42b6ec94d908bd05027ea62b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UX Theming Example/Textures/battery_00.png using Guid(bca152ef42b6ec94d908bd05027ea62b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e2935fcfa04fa8768f6a3f92344fd14') in 0.029119 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.739311 seconds.
+  path: Assets/UX Theming Example/Textures/battery_03.png
+  artifactKey: Guid(0692de7eada6bdd449edbecf42f9bd19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UX Theming Example/Textures/battery_03.png using Guid(0692de7eada6bdd449edbecf42f9bd19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d2913c61bf929b95a88e2f5765744e2') in 0.033853 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/UX Theming Example/Textures/battery_04.png
+  artifactKey: Guid(ffe3271c3c14bb847a2b93d556b5fcb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UX Theming Example/Textures/battery_04.png using Guid(ffe3271c3c14bb847a2b93d556b5fcb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcf30129d0d07c36cc796cf5051fa7fc') in 0.031108 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000696 seconds.
+  path: Assets/UX Theming Example/Textures/battery_05.png
+  artifactKey: Guid(352fea780b10eaa468d8e2591dd1d3a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UX Theming Example/Textures/battery_05.png using Guid(352fea780b10eaa468d8e2591dd1d3a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63fe09d9812fb3501c72ae1e0f2f4c3d') in 0.041378 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/UX Theming Example/Textures/battery_06.png
+  artifactKey: Guid(5877dbff88b37254298b37a73a7b3850) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UX Theming Example/Textures/battery_06.png using Guid(5877dbff88b37254298b37a73a7b3850) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9797ce5435c41d1f3d46dd546f38d88') in 0.034832 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/UX Theming Example/Textures/battery_07.png
+  artifactKey: Guid(6d2445a06ef5d2146b01ab4b71a27e83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UX Theming Example/Textures/battery_07.png using Guid(6d2445a06ef5d2146b01ab4b71a27e83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2eb0b1abf607217466de5a8dfd90669') in 0.044405 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000409 seconds.
+  path: Assets/UX Theming Example/Textures/battery_08.png
+  artifactKey: Guid(b021b0179ad85f64383b7f0fc2952261) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UX Theming Example/Textures/battery_08.png using Guid(b021b0179ad85f64383b7f0fc2952261) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '528d106fc5c9dd60ef108931a6f8bc22') in 0.039571 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.571014 seconds.
+  path: Assets/UX Theming Example/Textures/battery_09.png
+  artifactKey: Guid(956d069bc015a4e48913555dc738ffd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UX Theming Example/Textures/battery_09.png using Guid(956d069bc015a4e48913555dc738ffd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd75c90de44f26414a88954b9cd133263') in 0.033757 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/UX Theming Example/Textures/battery_10.png
+  artifactKey: Guid(ac1dd1124de17174db77d9acaeb81f28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UX Theming Example/Textures/battery_10.png using Guid(ac1dd1124de17174db77d9acaeb81f28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf7302a07b1ba66ae8e5ba34589255a3') in 0.030502 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/UX Theming Example/Textures/battery_charging_01.png
+  artifactKey: Guid(47759682baf13ee45bc889ea2c5d7375) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UX Theming Example/Textures/battery_charging_01.png using Guid(47759682baf13ee45bc889ea2c5d7375) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '972253c85d9d542ec776b05407ac7c15') in 0.032291 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/UX Theming Example/Textures/battery_charging_00.png
+  artifactKey: Guid(ace84d8d0bc25ce4099245c378535272) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UX Theming Example/Textures/battery_charging_00.png using Guid(ace84d8d0bc25ce4099245c378535272) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff7b68cdad5cfc1c37518f6ca4658603') in 0.036327 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.041510 seconds.
+  path: Assets/UX Theming Example/Textures/battery_charging_02.png
+  artifactKey: Guid(70cc9019d58e6cd479f0b691733dfdd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UX Theming Example/Textures/battery_charging_02.png using Guid(70cc9019d58e6cd479f0b691733dfdd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '975348e5ad88db1f8a9a0851c8395a7e') in 0.024651 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/UX Theming Example/Textures/battery_charging_03.png
+  artifactKey: Guid(488d7ab0ccf3b354b910e328d79366e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UX Theming Example/Textures/battery_charging_03.png using Guid(488d7ab0ccf3b354b910e328d79366e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf4566d3ee89eb92abf7d0ef4c422068') in 0.030812 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 504.057167 seconds.
+  path: Assets/Chess Set/fbx/Pieces/Materials/Black top.mat
+  artifactKey: Guid(6ba585060bc32e74599943aadc034596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Chess Set/fbx/Pieces/Materials/Black top.mat using Guid(6ba585060bc32e74599943aadc034596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0177fc7955c0e6e75096e478976b6bb') in 0.030747 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/Chess Set/fbx/Pieces/Materials/No Name.mat
+  artifactKey: Guid(1ccbf4ee006703d489e87f6aee89562a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Chess Set/fbx/Pieces/Materials/No Name.mat using Guid(1ccbf4ee006703d489e87f6aee89562a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da62e595df41b92a42978d45f9acdb08') in 0.058471 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
